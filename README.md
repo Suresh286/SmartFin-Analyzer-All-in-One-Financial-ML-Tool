@@ -49,6 +49,6 @@ Welcome to **SmartFin Analyzer**, a modern, interactive web app built with **Str
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/smartfin-analyzer.git
+git clone https://github.com/Suresh286/smartfin-analyzer.git
 cd smartfin-analyzer
 pip install -r requirements.txt
