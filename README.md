@@ -44,6 +44,14 @@ Welcome to **SmartFin Analyzer**, a modern, interactive web app built with **Str
 
 ---
 
+🌐 Live Demo
+🔗 https://smartfin-analyzer-all-in-one-financial-ml-tool.streamlit.app/
+
+🤝 Contributing
+Contributions, suggestions, and feedback are welcome!
+Please fork the repository, open an issue, or submit a pull request.
+
+
 ## 🚀 Getting Started
 
 ### 📦 Installation
